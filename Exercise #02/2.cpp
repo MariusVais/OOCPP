@@ -1,5 +1,7 @@
 // Exercise #02 https://ibb.co/3dkS22g
 // Author: Marius Vaišvila (marius.vaisvila@mif.stud.vu.lt)
+// Date: 2021
+// Bugs: no known bugs
 // Note: there is no data validation
 
 #include <iostream>
@@ -141,8 +143,6 @@ string ProgrammingLanguage::toString()
 
 int main()
 {
-    // Demo of class
-
     // Stack memory
     ProgrammingLanguage lang1;
 
