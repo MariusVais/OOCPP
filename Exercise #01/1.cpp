@@ -1,7 +1,7 @@
-/* 
- * This program finds names in word
- * list and prints them sorted.
- */
+// Exercise #01 https://ibb.co/3dkS22g
+// Author: Marius Vaišvila (marius.vaisvila@mif.stud.vu.lt)
+// Date: 2021
+// Bugs: no know bugs
 
 #include <iostream>
 #include <vector>
